@@ -2,6 +2,16 @@
 Galaxy Shooter is a fast-paced 2D space shooter where players pilot a spaceship in an endless battle against enemies. Your mission is to survive and destroy as many enemy ships as possible while dodging their attacks. Collect power-ups along the way to boost your firepower and survivability. Play solo or in a two-player mode to team up and take on the galactic threat together.
 
 
+## Contents
+- [Features](#features)
+- [Controls](#controls)
+- [Installation/Setup](#installationsetup)
+- [How to Play](#how-to-play)
+- [Screenshots](#screenshots)
+- [Future Improvements](#future-improvements)
+- [Credits](#credits)
+
+
 ## Features
 - Co-op (Offline Two-Player Mode)
 - Simple Enemy AI behavior
