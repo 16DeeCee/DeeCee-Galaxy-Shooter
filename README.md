@@ -22,7 +22,11 @@ Player 2: `Arrow keys` for movement and `Mouse Left Button` for shooting a laser
 
 
 ## Installation/Setup
-
+### Windows
+1. Download the **Windows Playable Build.rar** file containing the Windows build of the game.
+2. Extract the contents of the .rar file to a folder on your computer.
+3. Navigate to the extracted folder.
+4. Double-click the **Galaxy Shooter.exe** file to start the game.
 
 ## How to Play
 ### Objective:
